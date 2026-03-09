@@ -1,0 +1,1 @@
+Right now, all it does is rick roll you, but you could use it for many different purposes. Flash arduino with keyboard.hex to convert arduino into keyboard and flash with serial.hex for reverting back to the arduino state. After flashing arduino with new firmware, the arduino will not be able receive new code until flashed back
